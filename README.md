@@ -34,8 +34,6 @@
   </tr>
 </table>
 
-<img src="assets/screenshorts/Screenshot_1762686007.png" width="250" alt="Additional Screenshot"/>
-
 </div>
 
 ---
