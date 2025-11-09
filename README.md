@@ -402,12 +402,4 @@ No backend integration or data persistence has been implemented as per assignmen
 
 ---
 
-### 🚀 Ready for Submission!
-
-[![Submit](https://img.shields.io/badge/Submit-Assignment-success?style=for-the-badge)](https://savz.live/devflutterassignmentsubmission)
-
----
-
-**Questions or feedback?** Feel free to reach out! 📧
-
 </div>
